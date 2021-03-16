@@ -1,0 +1,14 @@
+/*@import "./reset.css";
+@import "./grid.css";*/
+
+.nav-wrapper{
+  display: flex;
+}
+
+.nav-container{
+  overflow-x: auto;
+}
+
+.nav-container::-webkit-scrollbar{
+  display: none;
+}
